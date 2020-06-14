@@ -9,7 +9,7 @@ image: https://2ecffd01e1ab3e9383f0-07db7b9624bbdf022e3b5395236d5cf8.ssl.cf4.rac
 template: '{"NAME":"Arlec PB88UHA","GPIO":[0,56,0,17,22,21,0,0,24,23,0,0,0],"FLAG":15,"BASE":18}'
 link2: 
 ---
-
+Updated with Tuya-convert 2.3 - four switched GPOs USB power not controlled
 
 
 
